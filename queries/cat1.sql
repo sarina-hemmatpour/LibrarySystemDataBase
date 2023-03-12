@@ -3,12 +3,12 @@ go
 
 
 -- دسته بندی
---create table Category(
---	CatId int Not Null ,
---	CatTitle varchar(50) not null
+create table Category(
+	CatId int Not Null ,
+	CatTitle varchar(50) not null
 
---	PRIMARY KEY (CatId)
---);
+	PRIMARY KEY (CatId)
+);
 
 
 
